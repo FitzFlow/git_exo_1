@@ -26,8 +26,6 @@ après chaque commande git.
 
 Auteurs :
  - Fabien Rozar
-<<<<<<< HEAD
  - Florian Ethève
-=======
  - Ethan GUILLOUX
->>>>>>> e35c4c702df81aea5649e356297932f79631f226
+ - Eliott Roche
